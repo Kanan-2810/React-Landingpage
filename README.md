@@ -30,3 +30,10 @@ cd pet-shop
 npm install
 npm run dev
 ```
+
+
+
+
+
+https://github.com/user-attachments/assets/05098ce8-119d-44d1-a837-1c6b9226bb34
+
